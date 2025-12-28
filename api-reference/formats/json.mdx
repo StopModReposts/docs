@@ -3,23 +3,3 @@ title: "JSON"
 openapi: "GET /{game}/sites.json"
 description: "Get all sites on the StopModReposts blocklist in the JSON format."
 ---
-
-<ParamField path="game" type="string" placeholder="game">
-  The name (e.g. `minecraft`) of the specific game blocklist ([you can find a full overview here](https://github.com/StopModReposts/Illegal-Mod-Sites/tree/master/lists)). You can remove the game query to get the full blocklist.
-</ParamField>
-
-<ResponseField name="domain" type="string">
-  The domain of the reposting site.
-</ResponseField>
-
-<ResponseField name="notes" type="string">
-  Notes regarding the status or specific details.
-</ResponseField>
-
-<ResponseField name="path" type="string">
-  The path to the reposting site (relevant for sites like `reddit.com`, where the complete site shouldn't be blocked, but only a specific path.
-</ResponseField>
-
-<ResponseField name="reason" type="string">
-  The reason for the inclusion of the site in the list.
-</ResponseField>
