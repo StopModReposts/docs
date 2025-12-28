@@ -71,11 +71,11 @@
             ]
           },
           {
-            "group": "Formats",
+            "group": "Get all sites",
             "icon": "folder",
-            "expanded": true,
             "pages": [
-              "api-reference/formats/json"
+              "api-reference/all/json",
+              "api-reference/all/xml"
             ]
           }
         ]
