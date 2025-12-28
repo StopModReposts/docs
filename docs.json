@@ -12,15 +12,11 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index"
-            ]
-          },
+        "pages": [
+          "index",
           {
             "group": "DMCA",
+            "icon": "scale-balanced",
             "pages": [
               "guides/dmca/takedown"
             ]
@@ -38,7 +34,6 @@
           },
           {
             "group": "Get all sites",
-            "icon": "folder",
             "pages": [
               "api-reference/all/json",
               "api-reference/all/xml",
@@ -50,7 +45,6 @@
           },
           {
             "group": "Get sites by game",
-            "icon": "folder",
             "pages": [
               "api-reference/by-game/json",
               "api-reference/by-game/xml",
