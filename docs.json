@@ -73,8 +73,9 @@
           {
             "group": "Formats",
             "icon": "folder",
+            "expanded": true,
             "pages": [
-              "api-reference/endpoint/get"
+              "api-reference/formats/json"
             ]
           }
         ]
