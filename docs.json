@@ -76,22 +76,22 @@
             "pages": [
               "api-reference/all/json",
               "api-reference/all/xml",
-              "api-reference/all/xml-copied-1",
-              "api-reference/all/xml-copied-2",
-              "api-reference/all/xml-copied-3",
-              "api-reference/all/xml-copied-4"
+              "api-reference/all/yaml",
+              "api-reference/all/txt",
+              "api-reference/all/hosts",
+              "api-reference/all/ublacklist"
             ]
           },
           {
             "group": "Get sites by game",
             "icon": "folder",
             "pages": [
-              "api-reference/all-copied-1/json",
-              "api-reference/all-copied-1/xml",
-              "api-reference/all-copied-1/xml-copied-1",
-              "api-reference/all-copied-1/xml-copied-2",
-              "api-reference/all-copied-1/xml-copied-3",
-              "api-reference/all-copied-1/xml-copied-4"
+              "api-reference/by-game/json",
+              "api-reference/by-game/xml",
+              "api-reference/by-game/yaml",
+              "api-reference/by-game/txt",
+              "api-reference/by-game/hosts",
+              "api-reference/by-game/ublacklist"
             ]
           }
         ]
