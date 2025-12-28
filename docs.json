@@ -81,6 +81,18 @@
               "api-reference/all/xml-copied-3",
               "api-reference/all/xml-copied-4"
             ]
+          },
+          {
+            "group": "Get sites by game",
+            "icon": "folder",
+            "pages": [
+              "api-reference/all-copied-1/json",
+              "api-reference/all-copied-1/xml",
+              "api-reference/all-copied-1/xml-copied-1",
+              "api-reference/all-copied-1/xml-copied-2",
+              "api-reference/all-copied-1/xml-copied-3",
+              "api-reference/all-copied-1/xml-copied-4"
+            ]
           }
         ]
       }
