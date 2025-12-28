@@ -14,10 +14,12 @@
         "tab": "Guides",
         "pages": [
           "index",
+          "guides/browser-extensions",
           {
             "group": "DMCA",
             "icon": "scale-balanced",
             "pages": [
+              "guides/dmca/what-is-dmca",
               "guides/dmca/takedown"
             ]
           }
