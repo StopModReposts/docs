@@ -75,7 +75,8 @@
             "icon": "folder",
             "pages": [
               "api-reference/all/json",
-              "api-reference/all/xml"
+              "api-reference/all/xml",
+              "api-reference/all/xml-copied-1"
             ]
           }
         ]
