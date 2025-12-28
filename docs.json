@@ -67,8 +67,8 @@
   "navbar": {
     "links": [
       {
-        "label": "GitHub",
-        "href": "https://github.com/StopModReposts"
+        "label": "Edit on GitHub",
+        "href": "https://github.com/StopModReposts/docs"
       }
     ],
     "primary": {
