@@ -14,15 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "DMCA",
-            "pages": [
-              "guides/dmca/takedown"
-            ]
-          },
-          {
             "group": "Getting started",
             "pages": [
               "index"
+            ]
+          },
+          {
+            "group": "DMCA",
+            "pages": [
+              "guides/dmca/takedown"
             ]
           }
         ]
